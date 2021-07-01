@@ -1,3 +1,3 @@
 # This is a Open Source Billing App.
 
- - [ ] Adding Products to database
+ - [X] Adding Products to database
